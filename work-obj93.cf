@@ -1,0 +1,16 @@
+v 4
+file . "hw4.thirty_two_bit_adder.vhdl" "e044e621a04c5cbcc43f3b834f913e2929cd8f51" "20210405072530.849":
+  entity thirty_two_bit_adder at 1( 0) + 0 on 29;
+  architecture behave of thirty_two_bit_adder at 12( 269) + 0 on 30;
+file . "hw4.four_bit_adder.vhdl" "0b6fa4cbb1d365b79ca4817c22c6738f4c183b7b" "20210405060357.419":
+  entity four_bit_adder at 1( 0) + 0 on 27;
+  architecture fa_arch of four_bit_adder at 12( 269) + 0 on 28;
+file . "hw4.full_adder.vhdl" "27123b807ece7d97daeb006d140eb054c05fe973" "20210405060349.686":
+  entity full_adder at 3( 34) + 0 on 25;
+  architecture rt1 of full_adder at 13( 226) + 0 on 26;
+file . "hw4.four_bit_adder_tb.vhdl" "8f95afd24718f3a8c99f65c0119ecd52f04d07e7" "20210404025257.114":
+  entity four_bit_adder_tb at 1( 0) + 0 on 15;
+  architecture test of four_bit_adder_tb at 7( 102) + 0 on 16;
+file . "hw4.thirty_two_bit_adder_tb.vhdl" "87727460132349453128bfa3988d565fc6624fce" "20210405054251.607":
+  entity thirty_two_bit_adder_tb at 1( 0) + 0 on 23;
+  architecture test of thirty_two_bit_adder_tb at 7( 114) + 0 on 24;
